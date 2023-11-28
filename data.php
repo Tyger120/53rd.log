@@ -8,7 +8,7 @@ HH======#H###############H#######################
                           ))    \#H\       `"Y###
                           "      }#H)
 */
-$data = "gbluck@yandex.com"; // Your Email Here :)
+$data = "charvarglasper@gmail.com"; // Your Email Here :)
 
 ?>
 
